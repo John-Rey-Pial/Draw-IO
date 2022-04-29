@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T10:26:38.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="XNno6J7viB4J-H529HG5" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T10:27:05.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="ZuavXTNW6ntxZcyIAGe0" version="17.5.0" type="github">
   <diagram id="vTAIPta64YhQ9ZoZDIHO" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           <mxGeometry x="368" y="357.5" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0iNQEgX_3wXYgpPOhYNp-5" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;SCHOOL PAYMENT SYSTEM&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="40" width="245" height="30" as="geometry" />
+          <mxGeometry x="800" y="40" width="245" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0iNQEgX_3wXYgpPOhYNp-6" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="720" y="120" width="27" height="430" as="geometry" />
@@ -216,6 +216,9 @@
             <mxPoint x="560" y="384" as="sourcePoint" />
             <mxPoint x="346.25925925925935" y="390.00199999999995" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0iNQEgX_3wXYgpPOhYNp-64" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;STUDENT EVALUATION/MONITORING&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="40" width="305" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
