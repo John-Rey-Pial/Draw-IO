@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T10:52:50.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="xWswSeFbkRK4rVfZ-gX2" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T10:53:54.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="xw9ysAY4iH0F6Asc_JsC" version="17.5.0" type="github">
   <diagram id="vTAIPta64YhQ9ZoZDIHO" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -342,6 +342,15 @@
         </mxCell>
         <mxCell id="0iNQEgX_3wXYgpPOhYNp-107" value="STUDENT VALIDATION" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2280" y="37" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0iNQEgX_3wXYgpPOhYNp-110" value="DIVISION" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="112" width="117" height="338" as="geometry" />
+        </mxCell>
+        <mxCell id="0iNQEgX_3wXYgpPOhYNp-113" value="REGISTRAR" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="112" width="117" height="338" as="geometry" />
+        </mxCell>
+        <mxCell id="0iNQEgX_3wXYgpPOhYNp-114" value="DATABASE" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="112" width="117" height="338" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
