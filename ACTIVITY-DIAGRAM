@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T07:34:06.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="WfAdm3A5fM9Q0mB5nlnG" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T07:36:01.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Zi-FHb86qYd6Xqyj1YeD" version="17.5.0" type="github">
   <diagram id="kw5K7YIeokw5mNg-xMJl" name="Page-1">
     <mxGraphModel dx="1108" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -475,6 +475,50 @@
         </mxCell>
         <mxCell id="C4IDVMxK2xAM0PsVqK-0-283" value="VERIFY STUDENT PROCESS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2660" y="31" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C4IDVMxK2xAM0PsVqK-0-284" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="79" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C4IDVMxK2xAM0PsVqK-0-285" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;labelBackgroundColor=none;fontColor=#000000;" edge="1" source="C4IDVMxK2xAM0PsVqK-0-284" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2785" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4IDVMxK2xAM0PsVqK-0-286" value="confirm clearance from previous semester" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2725" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C4IDVMxK2xAM0PsVqK-0-287" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;labelBackgroundColor=none;fontColor=#000000;" edge="1" source="C4IDVMxK2xAM0PsVqK-0-286" parent="1" target="C4IDVMxK2xAM0PsVqK-0-294">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2785" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4IDVMxK2xAM0PsVqK-0-294" value="confirmed?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2745" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C4IDVMxK2xAM0PsVqK-0-295" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;labelBackgroundColor=none;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="C4IDVMxK2xAM0PsVqK-0-294" parent="1" target="C4IDVMxK2xAM0PsVqK-0-286">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="2925" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2880" y="250" />
+              <mxPoint x="2880" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4IDVMxK2xAM0PsVqK-0-296" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;labelBackgroundColor=none;fontColor=#000000;" edge="1" source="C4IDVMxK2xAM0PsVqK-0-294" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="2785" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4IDVMxK2xAM0PsVqK-0-297" value="proceed to register student process" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2725" y="328" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C4IDVMxK2xAM0PsVqK-0-298" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;labelBackgroundColor=none;fontColor=#000000;" edge="1" source="C4IDVMxK2xAM0PsVqK-0-297" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2785" y="428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C4IDVMxK2xAM0PsVqK-0-299" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="430" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
