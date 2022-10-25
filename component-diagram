@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T10:14:52.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="51ofJ4snK24oSVQ78lG1" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T10:15:16.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="e5UgBjjHFlMgci48Fhy9" version="20.5.1" type="github">
   <diagram id="FlpMCTKMWXn_aToawIeZ" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,11 +33,11 @@
         <mxCell id="B5qS8h-56cqWc86Eiqv2-19" value="Hand Recognition with Python OpenCV" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="270" y="124" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="B5qS8h-56cqWc86Eiqv2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=230;exitDy=14;exitPerimeter=0;entryX=0;entryY=0;entryDx=175;entryDy=14;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="B5qS8h-56cqWc86Eiqv2-20" target="B5qS8h-56cqWc86Eiqv2-13">
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=230;exitDy=14;exitPerimeter=0;entryX=0;entryY=0;entryDx=40;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="B5qS8h-56cqWc86Eiqv2-20" target="B5qS8h-56cqWc86Eiqv2-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="30" />
-              <mxPoint x="905" y="30" />
+              <mxPoint x="790" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
