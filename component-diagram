@@ -1,14 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T09:22:45.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="2SfESHejixzhIDu9p9l9" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T09:35:21.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KiLCLMAlkaLYmqWjOR4a" version="20.5.1" type="github">
   <diagram id="FlpMCTKMWXn_aToawIeZ" name="Page-1">
-    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="B5qS8h-56cqWc86Eiqv2-3" value="import socket" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="100" width="90" height="70" as="geometry" />
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-13" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="100" width="310" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="B5qS8h-56cqWc86Eiqv2-4" value="import socket" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="200" width="90" height="70" as="geometry" />
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-8" value="import System.Collections" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="150" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-9" value="import System.Collections.Generic" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="240" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-10" value="import System.Net" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="330" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-11" value="import System.Net.Sockets" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="420" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-12" value="import System.Text" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="510" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-14" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="230" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-15" value="UnityEngine" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="894" y="124" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-6" value="import imutils" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-7" value="import mediapipe&lt;br&gt;&amp;nbsp;as mp" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="520" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-16" value="import socket" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-17" value="import cv2&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22import%20socket%22%20style%3D%22shape%3Dfolder%3BfontStyle%3D1%3BspacingTop%3D10%3BtabWidth%3D40%3BtabHeight%3D14%3BtabPosition%3Dleft%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22180%22%20y%3D%22100%22%20width%3D%2290%22%20height%3D%2270%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-18" value="import cv2&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22import%20socket%22%20style%3D%22shape%3Dfolder%3BfontStyle%3D1%3BspacingTop%3D10%3BtabWidth%3D40%3BtabHeight%3D14%3BtabPosition%3Dleft%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22180%22%20y%3D%22100%22%20width%3D%2290%22%20height%3D%2270%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-19" value="openCV with Python" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="285" y="124" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
