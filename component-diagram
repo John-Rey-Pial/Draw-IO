@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T09:49:04.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="444EqX7-ZAfJV6C2n8EF" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T09:49:20.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="nuP4Zwp6A9CLICYF1qFC" version="20.5.1" type="github">
   <diagram id="FlpMCTKMWXn_aToawIeZ" name="Page-1">
     <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="B5qS8h-56cqWc86Eiqv2-33" value="Main Rotator" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="1174" y="164" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="B5qS8h-56cqWc86Eiqv2-34" value="Main Rotator" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+        <mxCell id="B5qS8h-56cqWc86Eiqv2-34" value="Model Communicator" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="1165" y="500" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
