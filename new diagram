@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T01:30:15.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.5" etag="i7zHpi5O1Ygbub5bM_J8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T01:34:38.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.5" etag="ywvysNn6kN7l8nClX_k4" type="github">
   <diagram id="YD7gWPCain_vmJsMFCQy" name="Page-1">
     <mxGraphModel dx="1050" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,12 +16,16 @@
         <mxCell id="fNP_80xlDxiZQJb2lxbg-3" value="&lt;b&gt;LAOO&lt;/b&gt;&lt;br&gt;(HERMILO, EMBALSADO/SEALANA, AGNES RAYA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="190" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fNP_80xlDxiZQJb2lxbg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-4">
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-4" target="fNP_80xlDxiZQJb2lxbg-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="410" />
+              <mxPoint x="400" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fNP_80xlDxiZQJb2lxbg-4" value="TITLED?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-4" value="&lt;b&gt;TITLED?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="350" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-3" target="fNP_80xlDxiZQJb2lxbg-4">
@@ -29,6 +33,20 @@
             <mxPoint x="360" y="340" as="sourcePoint" />
             <mxPoint x="410" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-9" target="fNP_80xlDxiZQJb2lxbg-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="500" />
+              <mxPoint x="665" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-9" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GET DECLARANTS REQUIREMENT&lt;/span&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;1. Certificate from DENR whether TITLED or UNTITLED.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;2. Duly Authenticated Photocopy of Transfer of Rights.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;3. Updated Tax Receipt or Tax Clearance.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;4. Any Deed of Conveyance (Deed of Sale, Deed of Donation and Extrajudicial Settlement)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;5. Approve Subdivision plan (if Subdivided)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;6. Barangay Certification as to Improvements (if Agricultural Land)&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="330" width="570" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-10" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GET DECLARANTS REQUIREMENT&lt;/span&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;1. Certificate from DENR whether TITLED or UNTITLED.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;2. Duly Authenticated Photocopy of Transfer of Rights.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;3. Updated Tax Receipt or Tax Clearance.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;4. Any Deed of Conveyance (Deed of Sale, Deed of Donation and Extrajudicial Settlement)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;5. Approve Subdivision plan (if Subdivided)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;6. Barangay Certification as to Improvements (if Agricultural Land)&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="560" width="570" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
