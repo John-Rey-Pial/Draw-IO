@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T03:33:02.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.5" etag="VCiiOrIHuvG7pOg3DBCW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T03:35:40.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.5" etag="WBdzgK9xO1ARHVU1FyXX" type="github">
   <diagram id="YD7gWPCain_vmJsMFCQy" name="Page-1">
-    <mxGraphModel dx="1500" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,68 +13,49 @@
             <mxPoint x="306" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-3" target="fNP_80xlDxiZQJb2lxbg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-3" value="&lt;b&gt;LAOO&lt;/b&gt;&lt;br&gt;(Hermilo, Embalsado/ Sealana, Agnes Raya)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="190" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fNP_80xlDxiZQJb2lxbg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-4" target="fNP_80xlDxiZQJb2lxbg-9">
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-4" target="fNP_80xlDxiZQJb2lxbg-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="410" />
-              <mxPoint x="400" y="410" />
+              <mxPoint x="690" y="250" />
+              <mxPoint x="690" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fNP_80xlDxiZQJb2lxbg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-4" target="fNP_80xlDxiZQJb2lxbg-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="130" y="410" />
-              <mxPoint x="130" y="250" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-4" target="fNP_80xlDxiZQJb2lxbg-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-4" value="&lt;b&gt;TITLED?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="350" width="120" height="120" as="geometry" />
+          <mxGeometry x="490" y="190" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fNP_80xlDxiZQJb2lxbg-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-3" target="fNP_80xlDxiZQJb2lxbg-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="340" as="sourcePoint" />
-            <mxPoint x="410" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fNP_80xlDxiZQJb2lxbg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-9" target="fNP_80xlDxiZQJb2lxbg-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="580" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="665" y="575" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-9" target="fNP_80xlDxiZQJb2lxbg-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-9" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GET DECLARANTS REQUIREMENT&lt;/span&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;1. Certificate from DENR whether TITLED or UNTITLED.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;2. Duly Authenticated Photocopy of Transfer of Rights.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;3. Updated Tax Receipt or Tax Clearance.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;4. Any Deed of Conveyance (Deed of Sale, Deed of Donation and Extrajudicial Settlement)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;5. Approve Subdivision plan (if Subdivided)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;6. Barangay Certification as to Improvements (if Agricultural Land)&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="300" width="560" height="170" as="geometry" />
+          <mxGeometry x="670" y="170" width="560" height="170" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-12" target="fNP_80xlDxiZQJb2lxbg-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-12" value="&lt;b&gt;JOURNAL ASSESSMENT TRANSACTION&lt;/b&gt;&lt;br&gt;(Latasa, Rolanda)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="530" width="205" height="90" as="geometry" />
+          <mxGeometry x="187.5" y="370" width="205" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-13" target="fNP_80xlDxiZQJb2lxbg-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-13" value="&lt;b&gt;PIN&lt;/b&gt;&lt;br&gt;(Destura, Caesar S/ Alterado, Clark C)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="670" width="205" height="90" as="geometry" />
+          <mxGeometry x="187.5" y="505" width="205" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fNP_80xlDxiZQJb2lxbg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-15" target="fNP_80xlDxiZQJb2lxbg-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="690" y="760" />
-              <mxPoint x="690" y="720" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-15" target="fNP_80xlDxiZQJb2lxbg-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-15" value="&lt;b&gt;RECOMMENDING APPROVAL&lt;/b&gt;&lt;br&gt;(Basan, Paul L./ Torres, Janet Carolynn D.)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="670" width="240" height="90" as="geometry" />
+          <mxGeometry x="460" y="505" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-17" target="fNP_80xlDxiZQJb2lxbg-3">
           <mxGeometry relative="1" as="geometry">
@@ -87,13 +68,12 @@
         <mxCell id="fNP_80xlDxiZQJb2lxbg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-17" target="fNP_80xlDxiZQJb2lxbg-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="821" y="800" />
-              <mxPoint x="531" y="800" />
+              <mxPoint x="531" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-17" value="&lt;b&gt;APPROVED?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="660" width="122.5" height="120" as="geometry" />
+          <mxGeometry x="770" y="490" width="122.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-20" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="174" y="898" width="60" height="30" as="geometry" />
@@ -107,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-21" value="&lt;b&gt;APPROVAL&lt;br&gt;&lt;/b&gt;(Head of the Office)&lt;br&gt;&lt;br&gt;(Rocamora, Mervinne)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="885" width="162.5" height="90" as="geometry" />
+          <mxGeometry x="425" y="750" width="162.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-25" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="896" width="60" height="30" as="geometry" />
@@ -152,13 +132,13 @@
           <mxGeometry x="214.38" y="1420" width="171.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-39" value="&lt;b&gt;END&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1580" width="120" height="80" as="geometry" />
+          <mxGeometry x="1020" y="926" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-40" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="358" y="375" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-42" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="163.38" y="375" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
