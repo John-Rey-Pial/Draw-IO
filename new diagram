@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T01:40:50.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.5" etag="KXMmjRk83AFkzMnCIOnf" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T01:40:55.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.5" etag="t7rFVy1TjtZlCoglX79R" type="github">
   <diagram id="YD7gWPCain_vmJsMFCQy" name="Page-1">
     <mxGraphModel dx="1050" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-15" value="&lt;b&gt;RECOMMENDING APPROVAL&lt;/b&gt;&lt;br&gt;(BASAN, PAUL L. / TORRES, JANET CAROLYNN D." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="670" width="205" height="90" as="geometry" />
+          <mxGeometry x="450" y="670" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-17" target="fNP_80xlDxiZQJb2lxbg-1">
           <mxGeometry relative="1" as="geometry">
