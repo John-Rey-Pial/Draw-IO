@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T01:40:55.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.5" etag="t7rFVy1TjtZlCoglX79R" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T01:48:08.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.5" etag="apaNfMo74vZUGsvhYkP3" type="github">
   <diagram id="YD7gWPCain_vmJsMFCQy" name="Page-1">
     <mxGraphModel dx="1050" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
             <mxPoint x="306" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fNP_80xlDxiZQJb2lxbg-3" value="&lt;b&gt;LAOO&lt;/b&gt;&lt;br&gt;(HERMILO, EMBALSADO/SEALANA, AGNES RAYA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-3" value="&lt;b&gt;LAOO&lt;/b&gt;&lt;br&gt;(Hermilo, Embalsado/ Sealana, Agnes Raya)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="190" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-4" target="fNP_80xlDxiZQJb2lxbg-9">
@@ -48,19 +48,19 @@
         <mxCell id="fNP_80xlDxiZQJb2lxbg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-12" target="fNP_80xlDxiZQJb2lxbg-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fNP_80xlDxiZQJb2lxbg-12" value="&lt;b&gt;JOURNAL ASSESSMENT TRANSACTION&lt;/b&gt;&lt;br&gt;(LATASA, ROLANDA)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-12" value="&lt;b&gt;JOURNAL ASSESSMENT TRANSACTION&lt;/b&gt;&lt;br&gt;(Latasa, Rolanda)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="530" width="205" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-13" target="fNP_80xlDxiZQJb2lxbg-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fNP_80xlDxiZQJb2lxbg-13" value="&lt;b&gt;PIN&lt;/b&gt;&lt;br&gt;(DESTURA, CAESAR S/ ALTERADO, CLARK C." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-13" value="&lt;b&gt;PIN&lt;/b&gt;&lt;br&gt;(Destura, Caesar S/ Alterado, Clark C)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="670" width="205" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-15" target="fNP_80xlDxiZQJb2lxbg-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fNP_80xlDxiZQJb2lxbg-15" value="&lt;b&gt;RECOMMENDING APPROVAL&lt;/b&gt;&lt;br&gt;(BASAN, PAUL L. / TORRES, JANET CAROLYNN D." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-15" value="&lt;b&gt;RECOMMENDING APPROVAL&lt;/b&gt;&lt;br&gt;(Basan, Paul L./ Torres, Janet Carolynn D.)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="670" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-17" target="fNP_80xlDxiZQJb2lxbg-1">
@@ -80,11 +80,61 @@
         <mxCell id="fNP_80xlDxiZQJb2lxbg-20" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="898" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fNP_80xlDxiZQJb2lxbg-21" value="&lt;b&gt;APPROVAL&lt;br&gt;&lt;/b&gt;(Head of the Office)&lt;br&gt;&lt;br&gt;(ROCAMORA, MERVINNE)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-21" target="fNP_80xlDxiZQJb2lxbg-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="392.5" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-21" value="&lt;b&gt;APPROVAL&lt;br&gt;&lt;/b&gt;(Head of the Office)&lt;br&gt;&lt;br&gt;(Rocamora, Mervinne)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="885" width="162.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-25" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="896" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="311.25" y="1100" as="sourcePoint" />
+            <mxPoint x="311" y="1150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="311" y="1110" />
+              <mxPoint x="311" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-33" target="fNP_80xlDxiZQJb2lxbg-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="298.79999999999995" y="1240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="300" y="1250" />
+              <mxPoint x="300" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-30" target="fNP_80xlDxiZQJb2lxbg-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-30" value="&lt;b&gt;CANCEL OF PREVIOUS RECORD&lt;/b&gt;&lt;br&gt;(Gomez, John Anthony R.)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218.75" y="1270" width="162.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-32" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;ENCODING&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(Anar, Juanita P)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1020" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-33" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;FAAS SCANNING&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(Alterado, Clark C.)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="1150" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.0050000000001" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-34" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;FILE BOOK BINDING&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(Derecho, Gloris C.)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="214.38" y="1420" width="171.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-39" value="&lt;b&gt;END&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1580" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
