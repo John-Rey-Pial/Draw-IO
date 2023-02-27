@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T01:37:21.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.5" etag="i4yVDcikhwmIw8K3bu66" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T01:39:18.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.5" etag="uoPa5a2Yb8KvAHoBw_0Q" type="github">
   <diagram id="YD7gWPCain_vmJsMFCQy" name="Page-1">
     <mxGraphModel dx="1050" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,8 +63,25 @@
         <mxCell id="fNP_80xlDxiZQJb2lxbg-15" value="&lt;b&gt;RECOMMENDING APPROVAL&lt;/b&gt;&lt;br&gt;(BASAN, PAUL L. / TORRES, JANET CAROLYNN D." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="785" width="205" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-17" target="fNP_80xlDxiZQJb2lxbg-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="990" />
+              <mxPoint x="140" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fNP_80xlDxiZQJb2lxbg-17" target="fNP_80xlDxiZQJb2lxbg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fNP_80xlDxiZQJb2lxbg-17" value="&lt;b&gt;APPROVED?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="236.25" y="930" width="122.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-20" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNP_80xlDxiZQJb2lxbg-21" value="&lt;b&gt;APPROVAL&lt;br&gt;&lt;/b&gt;(Head of the Office)&lt;br&gt;&lt;br&gt;(ROCAMORA, MERVINNE)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216.25" y="1110" width="162.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
